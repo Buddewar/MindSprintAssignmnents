@@ -1,3 +1,0 @@
-This is Department file.
-
-There are many departments in the Company.
