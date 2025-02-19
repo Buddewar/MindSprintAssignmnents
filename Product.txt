@@ -1,0 +1,2 @@
+Product file contains all the details of the Product.
+Details : Name, Type, Quantity etc,.
