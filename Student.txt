@@ -1,3 +1,0 @@
-Hello Guys, I am new Student file.
-
-I will be pushed into Git remote Repo.
