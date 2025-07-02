@@ -1,1 +1,26 @@
 This is product file
+
+
+Date	Focus Areas	What You’ll Do
+July 2 (Today)	🎯 Kickoff + Revise Basics	- Revise number systems, averages, time-speed-distance<br>- Coding: revise arrays + strings<br>- Light DSA: basic sorting (bubble, selection)<br>- Set up daily prep slots (AM + PM)
+
+
+July 3	🔍 Aptitude + DSA Patterns	- Focus on ratios, profit-loss, mixtures<br>- Coding: practice patterns (half pyramid, stars, etc.)<br>- Solve 1 aptitude mock section
+
+
+July 4	🧠 Logical Reasoning + Recursion	- Blood relations, syllogism, arrangements<br>- Coding: recursion + simple backtracking<br>- Debugging practice (important for TCS)
+
+
+July 5	📊 Verbal + Moderate Coding	- Grammar rules, para jumbles, comprehension<br>- Coding: string manipulation problems<br>- Start resume polish if needed
+
+
+July 6	🧪 Mock Test Day	- Full aptitude + coding mock under time pressure<br>- Evaluate weak areas<br>- Practice behavioral + HR questions
+
+
+July 7	🛠 Strengthen Weak Spots	- Target weakest aptitude topics<br>- Coding: revisit mistakes from mock<br>- Practice explaining your ML/data projects
+
+
+July 8	⚙️ Final Interview Prep	- Revise intro pitch (blend current job + ML interests)<br>- Revise top 3 projects<br>- Do a mock interview with a friend or solo
+
+
+July 9	🌿 Light Review + Chill	- Flash review of formulas + code patterns<br>- No heavy lifting—just confidence-building review<br>- Prep essentials for travel (documents, ID, etc.)
